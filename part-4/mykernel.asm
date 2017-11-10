@@ -22,7 +22,7 @@ loop:
 	jmp loop
 
 load_fail:
-	mov is, load_fail_msg
+	mov si, load_fail_msg
 	call lib_print_string
 	jmp loop
 
