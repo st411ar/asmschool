@@ -8,7 +8,7 @@
 ### Parts
 1. [Get started with assembly language](https://www.linuxvoice.com/issues/012/ASM.pdf)
 1. [Conditions, loops and libraries](https://www.linuxvoice.com/asmschool-conditions-loops-and-libraries)
-   1. December 31, 2015
+   - December 31, 2015
 1. [Getting down to the bare metal](https://www.linuxvoice.com/asmschool-getting-down-to-the-bare-metal)
-   1. February 1, 2016
+   - February 1, 2016
 1. todo
