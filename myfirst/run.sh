@@ -1,0 +1,2 @@
+./myfirst.bin
+./test.bin
