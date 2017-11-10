@@ -11,4 +11,5 @@
    - December 31, 2015
 1. [Getting down to the bare metal](https://www.linuxvoice.com/asmschool-getting-down-to-the-bare-metal)
    - February 1, 2016
-1. todo
+1. [Make an operating system](https://www.linuxvoice.com/asmschool-make-an-operating-system)
+   - April 15, 2016
