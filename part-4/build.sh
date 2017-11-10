@@ -4,3 +4,6 @@ dd conv=notrunc if=boot.bin of=floppy.img
 
 nasm -f bin -o mykernel.bin mykernel.asm
 mcopy -i floppy.img mykernel.bin ::/
+
+nasm -f bin -o test.bin test.asm
+mcopy -i floppy.img test.bin ::/
