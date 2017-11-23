@@ -13,3 +13,9 @@
    - February 1, 2016
 1. [Make an operating system](https://www.linuxvoice.com/asmschool-make-an-operating-system)
    - April 15, 2016
+
+### Lubuntu 17.10 Requirements
+1. `sudo apt install git`
+1. `sudo apt install nasm`
+1. `sudo apt install binutils`
+1. `sudo apt install gcc`
